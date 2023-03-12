@@ -8,7 +8,7 @@
 * 2023년 03월 13일 (1일)
 
 ## 기능
-![image](https://user-images.githubusercontent.com/119614835/224548938-4a8d70ce-e048-4c35-bf21-bf0f6b193fcc.png)
+![토야](https://user-images.githubusercontent.com/119614835/224549180-7c5807d0-e8f8-4951-9314-8e0419280944.JPG)
 * 네 가지 사진으로 구성되어 있습니다.
 
 ![설명](https://user-images.githubusercontent.com/119614835/224548955-5fb98ae5-20ca-4f06-a99a-566f66c37818.JPG)
